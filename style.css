@@ -1,0 +1,27 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.main{
+    background-color: rgb(20, 21, 20);
+}
+.container{
+    width: 80%;
+    background-color: rgb(88, 136, 250);
+    margin: 0 auto;
+    padding: 0 auto;
+    justify-content: space-between;
+}
+.child{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+h1{
+    width: 20%;
+    background-color: whitesmoke;
+    margin: 20px 20px;
+    text-align: center;
+    font-family: sans-serif;
+}
